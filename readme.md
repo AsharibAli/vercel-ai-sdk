@@ -1,1 +1,1 @@
-# Applications build with Vercel AI SDK 🤖👈
+# Applications build with [Vercel AI SDK](https://sdk.vercel.ai/docs/introduction) 🤖👈
